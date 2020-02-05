@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "readme sync",
+    "title": "readme sync test",
     "version": "0.0.1"
   },
   "servers": [
